@@ -11,7 +11,7 @@
 	<artifactId>dw-frameworks-hibernate3</artifactId>
 	<packaging>jar</packaging>
 	<name>dw-frameworks-hibernate3</name>
-	<version>0.0.4</version>
+	<version>0.0.5-SNAPSHOT</version>
 	<description>hibernate3框架扩展包(若hibernate架构不改动能向后兼容，则本项目也能用于后续版本)</description>
 	
 	<!-- scm配置 -->
